@@ -1,0 +1,3 @@
+Fiscal Matrix is an interactive financial dashboard developed in Microsoft Excel to analyze and monitor key business metrics such as Revenue, Expenses, Profit & Loss, Maximum Revenue, and Maximum Expense. The dashboard includes dynamic KPI cards, charts, and slicers that provide a clear overview of financial performance across different time periods and departments.
+
+Built using Advanced Excel, Pivot Tables, Pivot Charts, Power Query, Power Pivot, and advanced formulas, the dashboard enables users to filter data by Year, Month, Quarter, Department, and Payment Method. It transforms raw financial data into meaningful insights, helping businesses track trends, compare performance, and support better financial decision-making.
