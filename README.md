@@ -1,3 +1,56 @@
-Fiscal Matrix is an interactive financial dashboard developed in Microsoft Excel to analyze and monitor key business metrics such as Revenue, Expenses, Profit & Loss, Maximum Revenue, and Maximum Expense. The dashboard includes dynamic KPI cards, charts, and slicers that provide a clear overview of financial performance across different time periods and departments.
+📌 Overview
+Fiscal Matrix is an interactive *Advanced Excel Financial Dashboard* developed to analyze revenue, expenses, profit, and overall business performance. The dashboard provides real-time insights through KPI cards, charts, and dynamic filters, helping users monitor financial performance and make data-driven decisions.
 
-Built using Advanced Excel, Pivot Tables, Pivot Charts, Power Query, Power Pivot, and advanced formulas, the dashboard enables users to filter data by Year, Month, Quarter, Department, and Payment Method. It transforms raw financial data into meaningful insights, helping businesses track trends, compare performance, and support better financial decision-making.
+## 🚀 Key Features
+- Revenue Analysis
+- Expense Analysis
+- Profit & Loss Tracking
+- Maximum Revenue & Expense KPIs
+- Revenue by Category
+- Expense by Category
+- Revenue vs Expense by Department
+- Monthly Profit Trend
+- Interactive Slicers & Timelines
+- Dynamic Dashboard Navigation
+
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Timelines
+- Conditional Formatting
+- Data Validation
+- XLOOKUP
+- INDEX-MATCH
+- SUMIFS
+- COUNTIFS
+- IF Functions
+
+## 📊 Dashboard Metrics
+- Total Revenue
+- Total Expense
+- Profit & Loss
+- Maximum Revenue
+- Maximum Expense
+- Revenue by Category
+- Expense by Category
+- Department-wise Revenue vs Expense
+- Monthly Profit Trend
+
+## 🎯 Business Objective
+The objective of this dashboard is to monitor financial performance, analyze business trends, compare departmental revenue and expenses, and provide interactive reports that support strategic business decisions.
+
+## 💡 Skills Demonstrated
+- Advanced Excel
+- Financial Analysis
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- KPI Reporting
+- Data Visualization
+- Business Intelligence
+- MIS Reporting
+- Interactive Reporting
